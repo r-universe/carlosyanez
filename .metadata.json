@@ -3,9 +3,12 @@
     "package": "aussiemaps"
   },
   {
+    "package": "uofgdataanalyticsreport"
+  },
+  {
     "package": "just.install"
   },
   {
-    "package": "uofgdataanalyticsreport"
+    "package": "customthemes"
   }
 ]
