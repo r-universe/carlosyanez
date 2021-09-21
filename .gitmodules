@@ -8,9 +8,9 @@
 	url = https://github.com/carlosyanez/aussiemaps
 	shallow = true
 	registered = true
-[submodule "customthemes"]
-	path = customthemes
-	url = https://github.com/carlosyanez/customthemes
+[submodule "just.install"]
+	path = just.install
+	url = https://github.com/carlosyanez/just.install
 	shallow = true
 	registered = true
 [submodule "uofgdataanalyticsreport"]
