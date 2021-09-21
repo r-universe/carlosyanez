@@ -13,8 +13,8 @@
 	url = https://github.com/carlosyanez/customthemes
 	shallow = true
 	registered = true
-[submodule "just.install"]
-	path = just.install
-	url = https://github.com/carlosyanez/just.install
+[submodule "uofgdataanalyticsreport"]
+	path = uofgdataanalyticsreport
+	url = https://github.com/carlosyanez/uofgdataanalyticsreport
 	shallow = true
 	registered = true
