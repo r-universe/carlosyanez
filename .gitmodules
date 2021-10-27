@@ -23,3 +23,8 @@
 	url = https://github.com/carlosyanez/customthemes
 	shallow = true
 	registered = true
+[submodule "aussiemaps.data"]
+	path = aussiemaps.data
+	url = https://github.com/carlosyanez/aussiemaps.data
+	shallow = true
+	registered = false
