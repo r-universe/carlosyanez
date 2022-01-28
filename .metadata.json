@@ -6,7 +6,8 @@
     "package": "uofgdataanalyticsreport"
   },
   {
-    "package": "just.install"
+    "package": "just.install",
+    "oncran": false
   },
   {
     "package": "customthemes"
