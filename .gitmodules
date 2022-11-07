@@ -8,6 +8,11 @@
 	url = https://github.com/carlosyanez/aussiemaps
 	shallow = true
 	registered = true
+[submodule "auspol"]
+	path = auspol
+	url = https://github.com/carlosyanez/auspol
+	shallow = true
+	registered = true
 [submodule "uofgdataanalyticsreport"]
 	path = uofgdataanalyticsreport
 	url = https://github.com/carlosyanez/uofgdataanalyticsreport
