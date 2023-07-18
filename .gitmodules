@@ -1,35 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/carlosyanez/universe
-	shallow = true
 	branch = HEAD
 [submodule "aussiemaps"]
 	path = aussiemaps
 	url = https://github.com/carlosyanez/aussiemaps
-	shallow = true
-	registered = true
 [submodule "auspol"]
 	path = auspol
 	url = https://github.com/carlosyanez/auspol
-	shallow = true
-	registered = true
 [submodule "auscensus"]
 	path = auscensus
 	url = https://github.com/carlosyanez/auscensus
-	shallow = true
-	registered = true
 [submodule "uofgdataanalyticsreport"]
 	path = uofgdataanalyticsreport
 	url = https://github.com/carlosyanez/uofgdataanalyticsreport
-	shallow = true
-	registered = true
 [submodule "just.install"]
 	path = just.install
 	url = https://github.com/carlosyanez/just.install
-	shallow = true
-	registered = true
 [submodule "customthemes"]
 	path = customthemes
 	url = https://github.com/carlosyanez/customthemes
-	shallow = true
-	registered = true
