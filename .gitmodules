@@ -1,22 +1,22 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/carlosyanez/universe
+	url = https://github.com/carlosyanez/carlosyanez.r-universe.dev
 	branch = HEAD
-[submodule "aussiemaps"]
-	path = aussiemaps
-	url = https://github.com/carlosyanez/aussiemaps
-[submodule "auspol"]
-	path = auspol
-	url = https://github.com/carlosyanez/auspol
 [submodule "auscensus"]
 	path = auscensus
 	url = https://github.com/carlosyanez/auscensus
-[submodule "uofgdataanalyticsreport"]
-	path = uofgdataanalyticsreport
-	url = https://github.com/carlosyanez/uofgdataanalyticsreport
-[submodule "just.install"]
-	path = just.install
-	url = https://github.com/carlosyanez/just.install
+[submodule "auspol"]
+	path = auspol
+	url = https://github.com/carlosyanez/auspol
+[submodule "aussiemaps"]
+	path = aussiemaps
+	url = https://github.com/carlosyanez/aussiemaps
 [submodule "customthemes"]
 	path = customthemes
 	url = https://github.com/carlosyanez/customthemes
+[submodule "just.install"]
+	path = just.install
+	url = https://github.com/carlosyanez/just.install
+[submodule "uofgdataanalyticsreport"]
+	path = uofgdataanalyticsreport
+	url = https://github.com/carlosyanez/uofgdataanalyticsreport
